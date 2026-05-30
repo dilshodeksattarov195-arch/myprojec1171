@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheuerify",
+        "uuid": 11763866,
+        "checksum": "if0m4n"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
